@@ -1,0 +1,14 @@
+Spécification :
+
+Matériel: ABS
+Couleur : blanc, noir, jaune (facultatif)
+Détectables : bêta, gamma, rayons X
+Type de capteur : tube G-M
+Gamme énergétique : 50kev-1.5mev inférieur à 30 %
+Erreur intrinsèque relative : moins de plus ou moins 10 %
+Sensibilité : 80 cm/μSV/Co-60
+Le taux équivalent de dose maximum : 99,99μsv/h
+Source vocale : son de particules réelles/son d'alarme/muet.
+Seuil d'alarme : 0,5/1.0/2.0/5,0
+L'utilisation de la température ambiante: -25 ~ +45℃
+Humidité relative : moins de 95 %

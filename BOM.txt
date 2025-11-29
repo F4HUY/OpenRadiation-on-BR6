@@ -1,0 +1,14 @@
+1x ESP32 WROOM DEV1
+1x LED ORANGE
+1x Barette sécable (option)
+1x 74HC00
+1x C2 = 47PF CERAMIQUE
+1x C1 = 100NF
+1x DS18B20 (sur pin DS18 pcb, attention au sens)
+1x R4 = 4.7Kohms
+1x R1 = 330Kohms
+1x R2 = 5.6Mohms
+1x R3 = 100ohms
+
+PWR: pin power entrée 3,3v
+COUNT: pin entrée count provenant du tube
