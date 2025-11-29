@@ -1,0 +1,1 @@
+Le projet OpenRadiation est une initiative collaborative de cinq organismes travaillant dans différents domaines :  ANCCLI, IFFO-RME, l’IRSN, PLANETE SCIENCES et SORBONNE UNIVERSITE. Il s’agit d’un projet participatif à but non lucratif et pédagogique.
